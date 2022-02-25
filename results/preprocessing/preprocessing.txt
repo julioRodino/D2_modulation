@@ -1,0 +1,1 @@
+This contains a sanity check analysis where the theta, alpha and beta topographic plots for each registrer were analysed.
