@@ -1,0 +1,23 @@
+Auto
+1.Load EEG data
+2.Load Channel locations
+3.Filter data
+4.Resample
+Manual
+5. Remove bad channels
+6. Inspect/reject noisy data
+Auto
+7.Rereference (average)
+8.Calculate ICA
+Manual
+9.Reject Components
+10. Epoch
+
+Notes:
+
+Not all files are sampled at 1000Hz some are sampled at 500Hz already.
+
+File 18_03_D2_resting.vhdr has no Events other than "boundry".
+File 19_01_D2_resting.vhdr has no Events other than "boundry".
+File 19_02_D2_resting.vhdr has no Events other than "boundry".
+
