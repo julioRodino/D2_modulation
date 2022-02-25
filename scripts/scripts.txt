@@ -1,0 +1,2 @@
+Here are located the scripts used to analyse the Dopamine Modulation data. The different folders correspond to different analysis done.
+Preprocessing, sanity check, source_reconstruction and HsMM modeling are the expected analysis to be performed.
